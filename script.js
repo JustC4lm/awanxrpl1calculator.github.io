@@ -1,6 +1,6 @@
-var angka1 = parseInt(prompt('Pilih angka pertama'));
-
 var operator = prompt('Pilih operator');
+
+var angka1 = parseInt(prompt('Pilih angka pertama'));
 
 var angka2 = parseInt(prompt('Pilih angka kedua'));
     
